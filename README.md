@@ -2,7 +2,8 @@
 
 We rented one **RTX PRO 6000 Blackwell 96 GB** on [Vast.ai](https://cloud.vast.ai/?ref_id=588745) for **56 minutes / $2.18** and ran the
 strongest open-weights video models side by side — text-to-video and **depth-controlled from a Blender previz** — plus
-ACE-Step 1.5 XL music. All clips, timings, VRAM peaks and costs are in this repo.
+ACE-Step 1.5 XL music. All clips, timings, VRAM peaks, costs, and a reproducible Docker/onstart recipe are in this repo.
+Ready image: `docker pull ghcr.io/vadimpokrov396-ship-it/open-video-models-benchmark-2026:latest` (built by GitHub Actions from `bootstrap/`; model weights download on start via `onstart.sh`).
 
 **Rent the same GPUs:** 👉 **[Vast.ai (referral link)](https://cloud.vast.ai/?ref_id=588745)** — tip: pick a host *without* inbound-traffic billing
 (downloading ~245 GB of weights cost us $0.64 = 30 % of the bill).
