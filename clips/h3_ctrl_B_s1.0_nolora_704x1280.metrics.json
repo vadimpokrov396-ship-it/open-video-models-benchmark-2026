@@ -1,0 +1,28 @@
+{
+ "name": "h3_ctrl_B_s1.0_nolora_704x1280",
+ "job": "h3_ctrl",
+ "ok": true,
+ "seconds": 378.1,
+ "peak_vram_mib": 95940,
+ "args": {
+  "job": "h3_ctrl",
+  "name": "h3_ctrl_B_s1.0_nolora_704x1280",
+  "prompt": "B",
+  "strength": 1.0,
+  "end_percent": 1.0,
+  "steps": 20,
+  "seed": 20260925,
+  "width": 704,
+  "height": 1280,
+  "length": 0,
+  "lora": 0,
+  "cfg": 0.0,
+  "control": "",
+  "h3_unet": "minimax_h3_fl2va_pruned_bf16.safetensors",
+  "h3_te": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+  "ltx_te": "gemma_3_12B_it_fp4_mixed.safetensors",
+  "server": "http://127.0.0.1:8188",
+  "dump": false
+ },
+ "errors": []
+}

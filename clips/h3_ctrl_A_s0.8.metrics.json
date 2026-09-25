@@ -1,0 +1,28 @@
+{
+ "name": "h3_ctrl_A_s0.8",
+ "job": "h3_ctrl",
+ "ok": true,
+ "seconds": 63.1,
+ "peak_vram_mib": 72222,
+ "args": {
+  "job": "h3_ctrl",
+  "name": "h3_ctrl_A_s0.8",
+  "prompt": "A",
+  "strength": 0.8,
+  "end_percent": 1.0,
+  "steps": 0,
+  "seed": 20260925,
+  "width": 0,
+  "height": 0,
+  "length": 0,
+  "lora": 1,
+  "cfg": 0.0,
+  "control": "",
+  "h3_unet": "minimax_h3_fl2va_pruned_bf16.safetensors",
+  "h3_te": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+  "ltx_te": "gemma_3_12B_it_fp4_mixed.safetensors",
+  "server": "http://127.0.0.1:8188",
+  "dump": false
+ },
+ "errors": []
+}

@@ -1,0 +1,167 @@
+{
+ "XL/auto_1_master.mp3": {
+  "lufs": -14.06,
+  "lra": 0.5,
+  "true_peak": -2.44,
+  "crest_db": 13.2,
+  "centroid_hz": 2652,
+  "hi_8k_share": 0.072,
+  "sub_100_share": 0.071,
+  "stereo_width": 0.536,
+  "flatness_2_8k": 0.67
+ },
+ "XL/auto_2_master.mp3": {
+  "lufs": -14.02,
+  "lra": 0.7,
+  "true_peak": -1.59,
+  "crest_db": 16.0,
+  "centroid_hz": 2510,
+  "hi_8k_share": 0.07,
+  "sub_100_share": 0.086,
+  "stereo_width": 0.49,
+  "flatness_2_8k": 0.612
+ },
+ "XL/kubyshka_1_master.mp3": {
+  "lufs": -14.17,
+  "lra": 2.9,
+  "true_peak": -1.35,
+  "crest_db": 16.9,
+  "centroid_hz": 3590,
+  "hi_8k_share": 0.166,
+  "sub_100_share": 0.068,
+  "stereo_width": 0.794,
+  "flatness_2_8k": 0.692
+ },
+ "XL/kubyshka_2_master.mp3": {
+  "lufs": -14.11,
+  "lra": 5.9,
+  "true_peak": -1.22,
+  "crest_db": 16.1,
+  "centroid_hz": 3281,
+  "hi_8k_share": 0.146,
+  "sub_100_share": 0.094,
+  "stereo_width": 0.479,
+  "flatness_2_8k": 0.722
+ },
+ "XL/posle40_1_master.mp3": {
+  "lufs": -14.06,
+  "lra": 1.8,
+  "true_peak": -1.93,
+  "crest_db": 13.3,
+  "centroid_hz": 2424,
+  "hi_8k_share": 0.077,
+  "sub_100_share": 0.113,
+  "stereo_width": 0.566,
+  "flatness_2_8k": 0.609
+ },
+ "XL/posle40_2_master.mp3": {
+  "lufs": -14.16,
+  "lra": 3.3,
+  "true_peak": -1.56,
+  "crest_db": 12.8,
+  "centroid_hz": 3038,
+  "hi_8k_share": 0.121,
+  "sub_100_share": 0.123,
+  "stereo_width": 0.477,
+  "flatness_2_8k": 0.579
+ },
+ "SFT/kubyshka/kubyshka_1.mp3": {
+  "lufs": -14.2,
+  "lra": 1.1,
+  "true_peak": -1.18,
+  "crest_db": 15.5,
+  "centroid_hz": 3402,
+  "hi_8k_share": 0.168,
+  "sub_100_share": 0.121,
+  "stereo_width": 0.649,
+  "flatness_2_8k": 0.752
+ },
+ "SFT/kubyshka/kubyshka_2.mp3": {
+  "lufs": -14.08,
+  "lra": 2.6,
+  "true_peak": -1.23,
+  "crest_db": 16.7,
+  "centroid_hz": 3886,
+  "hi_8k_share": 0.188,
+  "sub_100_share": 0.049,
+  "stereo_width": 0.629,
+  "flatness_2_8k": 0.755
+ },
+ "SFT/kubyshka/kubyshka_3.mp3": {
+  "lufs": -14.0,
+  "lra": 0.9,
+  "true_peak": -1.14,
+  "crest_db": 15.8,
+  "centroid_hz": 3499,
+  "hi_8k_share": 0.15,
+  "sub_100_share": 0.106,
+  "stereo_width": 0.61,
+  "flatness_2_8k": 0.773
+ },
+ "SFT/auto/auto_1.mp3": {
+  "lufs": -13.99,
+  "lra": 1.6,
+  "true_peak": -1.3,
+  "crest_db": 15.0,
+  "centroid_hz": 3919,
+  "hi_8k_share": 0.2,
+  "sub_100_share": 0.132,
+  "stereo_width": 0.473,
+  "flatness_2_8k": 0.71
+ },
+ "SFT/auto/auto_2.mp3": {
+  "lufs": -13.98,
+  "lra": 3.8,
+  "true_peak": -1.33,
+  "crest_db": 16.5,
+  "centroid_hz": 3917,
+  "hi_8k_share": 0.165,
+  "sub_100_share": 0.084,
+  "stereo_width": 0.623,
+  "flatness_2_8k": 0.67
+ },
+ "SFT/auto/auto_3.mp3": {
+  "lufs": -14.05,
+  "lra": 0.6,
+  "true_peak": -1.52,
+  "crest_db": 15.2,
+  "centroid_hz": 3029,
+  "hi_8k_share": 0.089,
+  "sub_100_share": 0.062,
+  "stereo_width": 0.673,
+  "flatness_2_8k": 0.721
+ },
+ "SFT/posle40/posle40_1.mp3": {
+  "lufs": -14.02,
+  "lra": 0.5,
+  "true_peak": -1.79,
+  "crest_db": 14.0,
+  "centroid_hz": 3034,
+  "hi_8k_share": 0.126,
+  "sub_100_share": 0.117,
+  "stereo_width": 0.371,
+  "flatness_2_8k": 0.758
+ },
+ "SFT/posle40/posle40_2.mp3": {
+  "lufs": -13.96,
+  "lra": 1.8,
+  "true_peak": -1.05,
+  "crest_db": 15.5,
+  "centroid_hz": 5744,
+  "hi_8k_share": 0.319,
+  "sub_100_share": 0.076,
+  "stereo_width": 0.608,
+  "flatness_2_8k": 0.783
+ },
+ "SFT/posle40/posle40_3.mp3": {
+  "lufs": -14.03,
+  "lra": 1.1,
+  "true_peak": -1.16,
+  "crest_db": 16.0,
+  "centroid_hz": 3495,
+  "hi_8k_share": 0.15,
+  "sub_100_share": 0.053,
+  "stereo_width": 0.614,
+  "flatness_2_8k": 0.684
+ }
+}
